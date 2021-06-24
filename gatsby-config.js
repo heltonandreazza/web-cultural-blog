@@ -36,5 +36,6 @@ module.exports = {
         shortname: `academia-cultural`
       }
     },
+    'gatsby-plugin-netlify-cms'
   ],
 }
