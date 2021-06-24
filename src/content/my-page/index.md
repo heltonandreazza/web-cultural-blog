@@ -1,6 +1,6 @@
 ---
-path: /blog/minha-pagina
 title: novo titulo
+path: /blog/minha-pagina-nova
 description: welcome to my page. alterei
 categoria: a
 price: 10
