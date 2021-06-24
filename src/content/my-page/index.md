@@ -1,26 +1,29 @@
 ---
-path: "/blog/minha-pagina"
-title: "my page with photo"
-description: "welcome to my page. desc for SEO"
-categoria: "a"
+path: /blog/minha-pagina
+title: my page with photo
+description: welcome to my page. alterei
+categoria: a
 price: 10
-banner: "./img1.webp"
+banner: https://st2.depositphotos.com/3927429/8215/i/950/depositphotos_82158134-stock-photo-athletic-man-and-woman-with.jpg
 ---
-
 # H1
 
 ## H2
 
 ### H3
 
+*teste*
+
+
+
 *bold text\*\*
-Italic *italicized text\*
+Italic* italicized text*
 Blockquote > blockquote
 Ordered List 1. First item 2. Second item 3. Third item
 Unordered List - First item
 
-- Second item
-- Third item
+* Second item
+* Third item
   Code `code`
   Horizontal Rule ---
   Link [title](https://www.example.com)
