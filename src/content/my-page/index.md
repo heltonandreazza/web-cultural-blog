@@ -1,20 +1,18 @@
 ---
 path: /blog/minha-pagina
-title: Meu teste
+title: novo titulo
 description: welcome to my page. alterei
 categoria: a
 price: 10
 banner: v-to-vision-tracker-organizer-example-page-2.png
 ---
-# H1
+# H1asdasd
 
 ## H2
 
 ### H3
 
 *teste*
-
-
 
 *bold text\*\*
 Italic* italicized text*
