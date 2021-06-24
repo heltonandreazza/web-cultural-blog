@@ -1,6 +1,6 @@
 ---
 path: /blog/minha-pagina
-title: my page with photo
+title: Meu teste
 description: welcome to my page. alterei
 categoria: a
 price: 10
