@@ -27,5 +27,5 @@ Unordered List - First item
   Code `code`
   Horizontal Rule ---
   Link [title](https://www.example.com)
-  Image ![my photo](./img1.webp)
-  Image ![my photo](../img2.webp)
+  Image
+  Image
