@@ -86,9 +86,9 @@ exports.createPages = async ({ graphql, actions }) => {
   Array
     .from({ length: numPages })
     .forEach((_, i) => {
-      console.log('gen', '/blog' + (i == 0  '' : `/${i}`))
+      // console.log('gen', '/blog' + (i == 0 ? '' : `/${i}`))
       createPage({
-        path: '/blog' + (i == 0  '' : `/${i}`),
+        path: '/blog' + (i == 0 ? '' : `/${i}`),
         component: templateBlog,
         context: {
           limit: pageSize,
